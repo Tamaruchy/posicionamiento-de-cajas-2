@@ -1,0 +1,27 @@
+#box-blue
+{
+width: 350px;
+height: 350px;
+background-color: blue;
+position: absolute;
+
+}
+#box-green
+{
+width: 200px;
+height: 200px;
+background-color: green;
+position: absolute;
+left: 92px;
+top:92px;
+
+}
+#box-black
+{
+width: 85px;
+height: 85px;
+background-color: black;
+position: absolute;
+left: 8px;
+top: 8px;
+}
